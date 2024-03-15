@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👨‍💻‍ I am Yuanchen Bei, now a second-year master’s student at the College of Computer Science and Technology, Zhejiang University.
+
+- 🌱 My research interests currently include graph learning & its applications, recommender systems, and multi-modal relation learning.
+
+- 📫 Please kindly reach me if you have any questions or cooperation opportunities 👯: yuanchenbei@zju.edu.cn.
+
+- 💬 I am looking for Ph.D. opportunities in Spring/Fall 2025. I sincerely appreciate any opportunity if you are interested in working with me 🤗!
+
+
 <!--
 **YuanchenBei/YuanchenBei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
