@@ -6,8 +6,9 @@
 
 - 📫 Please kindly reach me if you have any questions or cooperation opportunities 👯: yuanchenbei@zju.edu.cn.
 
+<!--
 - 💬 I am looking for Ph.D. opportunities in Spring/Fall 2025. I sincerely appreciate any opportunity if you are interested in working with me 🤗!
-
+-->
 
 <!--
 **YuanchenBei/YuanchenBei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
