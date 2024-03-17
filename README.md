@@ -4,7 +4,7 @@
 
 - 🌱 My research interests currently include graph learning, recommender systems, and multi-modal relation learning.
 
-- 📫 Please kindly reach me if you have any questions or cooperation opportunities 👯: yuanchenbei@zju.edu.cn.
+- 📫 Please kindly reach out to me if you have any questions or cooperation interests 👯: yuanchenbei@zju.edu.cn.
 
 <!--
 - 💬 I am looking for Ph.D. opportunities in Spring/Fall 2025. I sincerely appreciate any opportunity if you are interested in working with me 🤗!
