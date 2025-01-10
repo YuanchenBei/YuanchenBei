@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![GitHub User's stars](https://img.shields.io/github/stars/YuanchenBei?affiliations=OWNER&style=social)
 
 - 👨‍💻‍ I am Yuanchen Bei, now a final-year master’s student at the College of Computer Science and Technology, Zhejiang University.
 
@@ -7,7 +9,6 @@
 - 📫 Please kindly reach out to me if you have any questions or cooperation interests 👯: yuanchenbei@zju.edu.cn.
 
 - 🌟 I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!
-
 
 
 <!--
