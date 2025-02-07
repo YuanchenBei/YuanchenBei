@@ -8,8 +8,6 @@
 
 - 📫 Please kindly reach out to me if you have any questions or cooperation interests 👯: yuanchenbei@zju.edu.cn.
 
-- 🌟 I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!
-
 
 <!--
 - 💬 I am looking for Ph.D. opportunities in Summer/Fall 2025. I sincerely appreciate any opportunity if you are interested in working with me 🤗!
