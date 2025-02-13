@@ -4,7 +4,7 @@
 
 - 👨‍💻‍ I am Yuanchen Bei, now a final-year master’s student at the College of Computer Science and Technology, Zhejiang University.
 
-- 🌱 My research interests currently include graph machine learning, relation foundation models, and social computing.
+- 🌱 My research interests currently include graph foundation models and structure knowledge-empowered GenAI/IR.
 
 - 📫 Please kindly reach out to me if you have any questions or cooperation interests 👯: yuanchenbei@zju.edu.cn.
 
